@@ -1,0 +1,10 @@
+open php.ini file..
+and search this line..
+;extension=php_openssl.dll
+
+after found it..
+remove semi colon.. like this
+
+extension=php_openssl.dll
+
+and restart the server..
